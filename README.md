@@ -67,12 +67,14 @@ performance and build models that can predict final exam scores.
 📦 How to Run
 -------------
 1. Clone the repo and install requirements:
-   pip install -r requirements.txt
+
+       pip install -r requirements.txt
 
 2. Run the notebook:
-   jupyter notebook Student_Performance_Prediction.ipynb
 
-3. Execute all cells to preprocess data, train models, and generate plots.
+       jupyter notebook Student_Performance_Prediction.ipynb
+
+4. Execute all cells to preprocess data, train models, and generate plots.
 
 🙌 Acknowledgments
 ------------------
